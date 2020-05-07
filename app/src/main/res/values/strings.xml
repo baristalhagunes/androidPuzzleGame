@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="basla">BAŞLA</string>
+    <string name="isim_girme">İsminizi Giriniz...</string>
+    <string name="gözüken_isim"></string>
+
+</resources>
